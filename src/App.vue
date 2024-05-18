@@ -21,7 +21,7 @@ const products = ref([
   {
     name: "Keyboard Gaming",
     harga: "Rp 300000",
-    image: "/src/assets/keyboard/keyboard.jpg",
+    image: "./src/assets/keyboard/keyboard.jpg",
     details: {
       switch: "Hot-swappable switches untuk kustomisasi.",
       fitur:
@@ -33,7 +33,7 @@ const products = ref([
   {
     name: "Stand Laptop",
     harga: "Rp 40000",
-    image: "/src/assets/stand/stand.jpg",
+    image: "./src/assets/stand/stand.jpg",
     details: {
       material: "Aluminium alloy, kuat dan tahan lama.",
       desain:
@@ -45,7 +45,7 @@ const products = ref([
   {
     name: "Mouse Gaming",
     harga: "Rp 150000",
-    image: "/src/assets/mouse/mouse.jpg",
+    image: "./src/assets/mouse/mouse.jpg",
     details: {
       sensor: "HERO 25K, sangat presisi dengan DPI hingga 25,600.",
       fitur:
