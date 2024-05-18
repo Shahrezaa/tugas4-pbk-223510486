@@ -21,7 +21,8 @@ const products = ref([
   {
     name: "Keyboard Gaming",
     harga: "Rp 300000",
-    image: "./src/assets/keyboard/keyboard.jpg",
+    image:
+      "https://tabloidpulsa.id/wp-content/uploads/2023/05/ROG-Strix-Scope-II-96-Wireless-Gaming-Keyboard.webp",
     details: {
       switch: "Hot-swappable switches untuk kustomisasi.",
       fitur:
@@ -33,7 +34,8 @@ const products = ref([
   {
     name: "Stand Laptop",
     harga: "Rp 40000",
-    image: "./src/assets/stand/stand.jpg",
+    image:
+      "https://jakartacamera.com/wp-content/uploads/2023/03/Laptop-Stand-jpg.webp",
     details: {
       material: "Aluminium alloy, kuat dan tahan lama.",
       desain:
@@ -45,7 +47,8 @@ const products = ref([
   {
     name: "Mouse Gaming",
     harga: "Rp 150000",
-    image: "./src/assets/mouse/mouse.jpg",
+    image:
+      "https://images-cdn.ubuy.co.in/633d1ed5dc341b272b2cbd08-rgb-gaming-mouse-wired-pc-gaming-mouse.jpg",
     details: {
       sensor: "HERO 25K, sangat presisi dengan DPI hingga 25,600.",
       fitur:
